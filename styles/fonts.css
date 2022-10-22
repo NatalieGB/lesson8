@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Lato';
+    scr: url('../fonts/Lato-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    scr: url('../fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.ttf');
+}
